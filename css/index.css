@@ -1,0 +1,21 @@
+#topo {
+    width: 100%;
+	background-color: #EF7022;
+	height: 40px;
+}
+#carouselExampleControls{
+	width: 1000px; position: relative; top: 18px;
+}
+#texto{
+	height: 200px;
+	background-color: #EF7022;
+	top: 35px;
+	position: relative;
+	font-family: 'Quicksand', sans-serif;
+}
+h1{
+	color: white;
+    position: relative;
+    top: 56px;
+	width: 1426px;
+}

@@ -1,0 +1,14 @@
+#texto{
+	height: 300px;
+	background-color: #EF7022;
+	position: relative;
+}
+h1 {
+    color: white;
+    position: relative;
+    width: 20px;
+    top: 90px;
+}
+#cards {
+	display: inline;
+}
