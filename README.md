@@ -5,8 +5,11 @@ Projeto final para formação no curso Programador Web - Senac Campinas que teve
 Linguagens utilizadas:
 
 -PHP
+
 -HTML5
+
 -CSS3
+
 -Javascript
 
 Site pessoal para nutricionista.
