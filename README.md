@@ -7,6 +7,7 @@ Funções:
 -Publicação de posts no estilo blog.
 
 -Galeria de fotos.
+![Página Principal](https://user-images.githubusercontent.com/38991529/98717881-6a317b80-236c-11eb-8069-3e15d85cee34.png)
 
 -Gestão dos usuários.
 
