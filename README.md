@@ -2,6 +2,13 @@
 
 Projeto final para formação no curso Programador Web - Senac Campinas que teve inicio no ano de 2019.
 
+Linguagens utilizadas:
+
+-PHP
+-HTML5
+-CSS3
+-Javascript
+
 Site pessoal para nutricionista.
 
 ![Página Principal](https://user-images.githubusercontent.com/38991529/98717544-f98a5f00-236b-11eb-9407-1dc96bb9c0cd.png)
